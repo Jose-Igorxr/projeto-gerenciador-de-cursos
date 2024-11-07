@@ -1,0 +1,15 @@
+2024-09-16 21:45:45,126 - INFO - viewsets - Novo curso criado: Matematica Discreta
+2024-09-16 21:46:21,310 - WARNING - viewsets - Atenção! Algo pode estar errado
+2024-09-16 21:46:21,310 - ERROR - viewsets - Erro! Algo deu errado
+2024-09-16 22:16:20,052 - WARNING - viewsets - Curso excluído: Matematica Discreta
+2024-09-17 10:06:30,233 - INFO - viewsets - Novo curso criado: Django Rest
+2024-09-17 10:09:07,990 - INFO - viewsets - Novo curso criado: Django Rest Full
+2024-09-17 10:26:43,577 - INFO - viewsets - Novo curso criado: Bom programador
+2024-09-17 10:27:45,812 - INFO - viewsets - Novo curso criado: Programação
+2024-09-17 10:41:59,196 - WARNING - viewsets - Curso excluído: Bom programador
+2024-11-05 15:42:48,018 - INFO - viewsets - Novo curso criado: aaa
+2024-11-05 15:44:32,767 - INFO - viewsets - Curso atualizado: SEI LAAAAA
+2024-11-05 18:35:47,042 - INFO - viewsets - Novo curso criado: teste
+2024-11-05 18:48:53,763 - INFO - viewsets - Novo curso criado: Matemática
+2024-11-05 19:10:37,107 - INFO - viewsets - Novo curso criado: Português
+2024-11-05 19:20:22,033 - INFO - viewsets - Novo curso criado: Matematica
